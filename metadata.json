@@ -1,0 +1,6 @@
+{
+  "name": "CardScan M3 - Optical Card Scanner",
+  "description": "Industrial-grade optical card scanner with real-time HUD viewfinder, OCR telemetry, tactile bottom sheet inspection, and export pipeline.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
